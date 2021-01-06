@@ -5,7 +5,7 @@ Welcome to the holding bay for Manchester Codes Sept 2020 Cohort final project i
 
 2. Open up terminal, and go: **git clone git@github.com:ironmongrrrl/mcr-codes-group-project.git**
 
-3. Add to the readme, in format below.
+3. Add to the readme, in format below. If you need to add any images etc, add a folder with the title of the project.
 
 4. Push it up using **git push origin main**, adding a commit message with your full name in.
 
@@ -18,8 +18,17 @@ Welcome to the holding bay for Manchester Codes Sept 2020 Cohort final project i
 - <a href="https://www.manchestercodes.com/platform/module/programming-foundations/git-intro">This link</a> is quite good if you get stuck.
 
 
+## // GROUP PROJECT TITLES ##
+
+Demo 1 
+
 ## // GROUP PROJECT IDEAS ##
 
+**Project name:**<br> 
+Demo 1 
 **Project idea:**<br>
-**Full Name:**<br>
-**Comments from others on this project:**
+I will fill this in properly later but you get the idea. Talking about Demo 1.
+**Full name:**<br>
+Lucy Ironmonger
+**Comments from others on this project:**<br>
+Be nice.
