@@ -24,11 +24,7 @@ Demo 1
 
 ## // GROUP PROJECT IDEAS ##
 
-**Project name:**<br> 
-Demo 1 
-**Project idea:**<br>
-I will fill this in properly later but you get the idea. Talking about Demo 1.
-**Full name:**<br>
-Lucy Ironmonger
-**Comments from others on this project:**<br>
-Be nice.
+**Project name:** Demo 1<br> 
+**Project idea:** I will fill this in properly later but you get the idea. Talking about Demo 1.<br>
+**Full name:** Lucy Ironmonger<br>
+**Comments from others on this project:** Be nice. ;D<br>
