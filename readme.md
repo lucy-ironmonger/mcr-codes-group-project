@@ -28,3 +28,8 @@ Demo 1
 **Project idea:** I will fill this in properly later but you get the idea. Talking about Demo 1.<br>
 **Full name:** Lucy Ironmonger<br>
 **Comments from others on this project:** Be nice. ;D<br>
+
+**Project name:** Demo 2<br> 
+**Project idea:** Still thinking of ideas...<br>
+**Full name:** Jen Openshaw<br>
+**Comments from others on this project:** <br>
