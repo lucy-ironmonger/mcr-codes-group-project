@@ -33,3 +33,8 @@ Demo 1
 **Project idea:** Still thinking of ideas...<br>
 **Full name:** Jen Openshaw<br>
 **Comments from others on this project:** <br>
+
+**Project name:** Demo 3<br> 
+**Project idea:** Insert wisdom here<br>
+**Full name:** Jenny Cant<br>
+**Comments from others on this project:** <br>
