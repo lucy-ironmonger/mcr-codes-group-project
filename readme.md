@@ -40,6 +40,6 @@ Demo 1
 **Comments from others on this project:** <br>
 
 **Project name:** Demo 4<br> 
-**Project idea:** Tentaively discussing a running app ... <br>
+**Project idea:** Tentatively discussing a running app ... <br>
 **Full name:** Scott Hannabuss<br>
 **Comments from others on this project:** <br>
