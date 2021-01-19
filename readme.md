@@ -43,3 +43,8 @@ Demo 1
 **Project idea:** Tentatively discussing a running app ... <br>
 **Full name:** Scott Hannabuss<br>
 **Comments from others on this project:** <br>
+
+**Project name:** Language Flashcard App<br> 
+**Project idea:** Possibly some kind of flashcard app for learning foreign languages as I read something interesting [here](https://medium.com/swlh/how-i-built-a-language-learning-app-with-react-native-8c4f09500783) using React : ... <br>
+**Full name:** Jonathan Cain<br>
+**Comments from others on this project:** <br>
