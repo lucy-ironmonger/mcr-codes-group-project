@@ -45,6 +45,7 @@ Welcome to the holding bay for Manchester Codes Sept 2020 Cohort final project i
 - A distance challenge - eg first past the post, to achieve that distance
 - A time challenge - how far can you run in a given time period?
 - Not an MVP feature but it would be amazing if you could also bet money on who would win and winner takes all eg using the [Stripe API](https://stripe.com/docs/api) but I think it might break some gambling laws, I will look into it...failing that, some sort of points system a la Strava 'King of the Hill' kinda concept. ~Lucy<br>
+
 **Full name:** Scott Hannabuss & Lucy Ironmonger<br>
 **Comments from others on this project:** <br>
 
