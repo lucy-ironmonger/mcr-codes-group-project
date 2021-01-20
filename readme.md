@@ -66,7 +66,7 @@ Welcome to the holding bay for Manchester Codes Sept 2020 Cohort final project i
 
 
 **Project name:** Something about food <br> 
-**Project idea:** Thinking
+**Project idea:** Thinking<br>
 **Full name:** Dario Milani<br>
 **Comments from others on this project:** <br>
 
