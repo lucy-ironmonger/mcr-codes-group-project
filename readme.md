@@ -61,3 +61,12 @@ Welcome to the holding bay for Manchester Codes Sept 2020 Cohort final project i
 **Project idea:** Possibly some kind of flashcard app for learning foreign languages as I read something interesting [here](https://medium.com/swlh/how-i-built-a-language-learning-app-with-react-native-8c4f09500783) using React : ... <br>
 **Full name:** Jonathan Cain<br>
 **Comments from others on this project:** <br>
+
+****
+
+
+**Project name:** Something about food <br> 
+**Project idea:** Thinking
+**Full name:** Dario Milani<br>
+**Comments from others on this project:** <br>
+
