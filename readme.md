@@ -30,15 +30,21 @@ Welcome to the holding bay for Manchester Codes Sept 2020 Cohort final project i
 **Full name:** Lucy Ironmonger<br>
 **Comments from others on this project:** Be nice. ;D<br>
 
+*** 
+
 **Project name:** Demo 2<br> 
 **Project idea:** Still thinking of ideas...<br>
 **Full name:** Jen Openshaw<br>
 **Comments from others on this project:** <br>
 
+*** 
+
 **Project name:** Demo 3<br> 
 **Project idea:** Insert wisdom here<br>
 **Full name:** Jenny Cant<br>
 **Comments from others on this project:** <br>
+
+*** 
 
 **Project name:** GameFace<br> 
 **Project idea:** The concept of this would be to use the [Strava API](https://developers.strava.com) which tracks your mileage as you run/swim/cycle. What Strava doesn't do well is encourage competitiveness, which is where this app would come in. <br>A user would be able to challenge another user to either:<br>
@@ -48,6 +54,8 @@ Welcome to the holding bay for Manchester Codes Sept 2020 Cohort final project i
 
 **Full name:** Scott Hannabuss & Lucy Ironmonger<br>
 **Comments from others on this project:** <br>
+
+***
 
 **Project name:** Language Flashcard App<br> 
 **Project idea:** Possibly some kind of flashcard app for learning foreign languages as I read something interesting [here](https://medium.com/swlh/how-i-built-a-language-learning-app-with-react-native-8c4f09500783) using React : ... <br>
