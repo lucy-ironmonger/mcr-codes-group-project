@@ -20,7 +20,8 @@ Welcome to the holding bay for Manchester Codes Sept 2020 Cohort final project i
 
 ## // GROUP PROJECT TITLES ##
 
-Demo 1 
+- GameFace
+- Language Flashcard App
 
 ## // GROUP PROJECT IDEAS ##
 
@@ -39,9 +40,12 @@ Demo 1
 **Full name:** Jenny Cant<br>
 **Comments from others on this project:** <br>
 
-**Project name:** Demo 4<br> 
-**Project idea:** Tentatively discussing a running app ... <br>
-**Full name:** Scott Hannabuss<br>
+**Project name:** GameFace<br> 
+**Project idea:** The concept of this would be to use the [Strava API](https://developers.strava.com) which tracks your mileage as you run/swim/cycle. What Strava doesn't do well is encourage competitiveness, which is where this app would come in. <br>A user would be able to challenge another user to either:<br>
+- A distance challenge - eg first past the post, to achieve that distance
+- A time challenge - how far can you run in a given time period?
+- Not an MVP feature but it would be amazing if you could also bet money on who would win and winner takes all eg using the [Stripe API](https://stripe.com/docs/api) but I think it might break some gambling laws, I will look into it...failing that, some sort of points system a la Strava 'King of the Hill' kinda concept. ~Lucy<br>
+**Full name:** Scott Hannabuss & Lucy Ironmonger<br>
 **Comments from others on this project:** <br>
 
 **Project name:** Language Flashcard App<br> 
