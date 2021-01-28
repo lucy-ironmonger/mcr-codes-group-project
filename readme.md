@@ -20,8 +20,10 @@ Welcome to the holding bay for Manchester Codes Sept 2020 Cohort final project i
 
 ## // GROUP PROJECT TITLES ##
 
-- GameFace
-- Language Flashcard App
+- GameFace (Lucy)
+- Language Flashcard App (Jonathan)
+- Something about food (Dario)
+- Pay-it-off-o-meter
 
 ## // GROUP PROJECT IDEAS ##
 
@@ -68,5 +70,13 @@ Welcome to the holding bay for Manchester Codes Sept 2020 Cohort final project i
 **Project name:** Something about food <br> 
 **Project idea:** Thinking<br>
 **Full name:** Dario Milani<br>
+**Comments from others on this project:** <br>
+
+***
+
+
+**Project name:** Pay-it-off-o-meter<br> 
+**Project idea:** An app where you can list the things you are saving towards or paying off. Then as you put money towards those things, you can see it visibly going down on the pay-it-off-o-meter. Additional features could be telling you a date you'll have it paid off based on you paying in certain amounts in certain frequencies. <br>
+**Full name:** Lucy Ironmonger<br>
 **Comments from others on this project:** <br>
 
